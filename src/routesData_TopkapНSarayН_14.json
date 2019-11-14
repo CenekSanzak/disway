@@ -1,0 +1,6213 @@
+[
+  {
+    "from": "TopkapıSarayı",
+    "to": "SultanahmetCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 32,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:32",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 12,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3155,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Yusufpaşa",
+            "Coordinate": {
+              "Lat": 41.01012420654297,
+              "Lng": 28.946683883666992
+            },
+            "Time": "14:25",
+            "Id": "istm_T1_YUSUFPAŞA"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 587,
+          "DistanceMeters": 587,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Yusufpaşa",
+            "Coordinate": {
+              "Lat": 41.01012420654297,
+              "Lng": 28.946683883666992
+            },
+            "Time": "14:25",
+            "Id": "istm_T1_YUSUFPAŞA"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01383972167969,
+              "Lng": 28.94965934753418
+            },
+            "Time": "14:32",
+            "Id": "_41.0138397216797;28.9496593475342"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "AyaSofya",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 17,
+      "WalkMinutes": 17,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:17",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 17,
+          "WalkDistanceMeters": 1433,
+          "DistanceMeters": 1433,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.005165100097656,
+              "Lng": 28.97466278076172
+            },
+            "Time": "14:17",
+            "Id": "_41.0051651000977;28.9746627807617"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "YerebatanSarnıcı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 19,
+      "WalkMinutes": 19,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:19",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 19,
+          "WalkDistanceMeters": 1606,
+          "DistanceMeters": 1606,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.00483322143555,
+              "Lng": 28.973329544067383
+            },
+            "Time": "14:19",
+            "Id": "_41.0048332214355;28.9733295440674"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "KapalıÇarşı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 24,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:24",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 6,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1466,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Beyazıt - Kapalıçarşı",
+            "Coordinate": {
+              "Lat": 41.00904083251953,
+              "Lng": 28.966636657714844
+            },
+            "Time": "14:19",
+            "Id": "istm_T1_BEYAZIT"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 379,
+          "DistanceMeters": 379,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beyazıt - Kapalıçarşı",
+            "Coordinate": {
+              "Lat": 41.00904083251953,
+              "Lng": 28.966636657714844
+            },
+            "Time": "14:19",
+            "Id": "istm_T1_BEYAZIT"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": { "Lat": 41.00634765625, "Lng": 28.967422485351562 },
+            "Time": "14:24",
+            "Id": "_41.00634765625;28.9674224853516"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "MısırÇarşısı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 21,
+      "WalkMinutes": 15,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:21",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1080,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Çemberlitaş",
+            "Coordinate": {
+              "Lat": 41.00847244262695,
+              "Lng": 28.971162796020508
+            },
+            "Time": "14:17",
+            "Id": "istm_T1_ÇEMBERLİTAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 338,
+          "DistanceMeters": 338,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Çemberlitaş",
+            "Coordinate": {
+              "Lat": 41.00847244262695,
+              "Lng": 28.971162796020508
+            },
+            "Time": "14:17",
+            "Id": "istm_T1_ÇEMBERLİTAŞ"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.00983428955078,
+              "Lng": 28.968996047973633
+            },
+            "Time": "14:21",
+            "Id": "_41.0098342895508;28.9689960479736"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "GalataKulesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 25,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:25",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 438,
+          "DistanceMeters": 438,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02199935913086,
+              "Lng": 28.971162796020508
+            },
+            "Time": "14:25",
+            "Id": "_41.0219993591309;28.9711627960205"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "İstiklalCaddesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 38,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:38",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 88,
+          "DistanceMeters": 88,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03398513793945,
+              "Lng": 28.992094039916992
+            },
+            "Time": "14:30",
+            "Id": "istm_F1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 614,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03398513793945,
+              "Lng": 28.992094039916992
+            },
+            "Time": "14:34",
+            "Id": "istm_F1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Taksim",
+            "Coordinate": {
+              "Lat": 41.036895751953125,
+              "Lng": 28.98594093322754
+            },
+            "Time": "14:36",
+            "Id": "istm_F1_TAKSİM"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "F1 Funicular",
+            "Color": "717171",
+            "Direction": "Towards Taksim",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_funicular_tram_717171_F1",
+            "ScheduleId": "istm_F1",
+            "TrackId": "b-a"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 68,
+          "DistanceMeters": 68,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Taksim",
+            "Coordinate": {
+              "Lat": 41.036895751953125,
+              "Lng": 28.98594093322754
+            },
+            "Time": "14:36",
+            "Id": "istm_F1_TAKSİM"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.036598205566406,
+              "Lng": 28.986562728881836
+            },
+            "Time": "14:38",
+            "Id": "_41.0365982055664;28.9865627288818"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "TaksimMeydanı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 40,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:40",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 88,
+          "DistanceMeters": 88,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03398513793945,
+              "Lng": 28.992094039916992
+            },
+            "Time": "14:30",
+            "Id": "istm_F1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 614,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03398513793945,
+              "Lng": 28.992094039916992
+            },
+            "Time": "14:34",
+            "Id": "istm_F1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Taksim",
+            "Coordinate": {
+              "Lat": 41.036895751953125,
+              "Lng": 28.98594093322754
+            },
+            "Time": "14:36",
+            "Id": "istm_F1_TAKSİM"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "F1 Funicular",
+            "Color": "717171",
+            "Direction": "Towards Taksim",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_funicular_tram_717171_F1",
+            "ScheduleId": "istm_F1",
+            "TrackId": "b-a"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 224,
+          "DistanceMeters": 224,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Taksim",
+            "Coordinate": {
+              "Lat": 41.036895751953125,
+              "Lng": 28.98594093322754
+            },
+            "Time": "14:36",
+            "Id": "istm_F1_TAKSİM"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.035499572753906,
+              "Lng": 28.98482894897461
+            },
+            "Time": "14:40",
+            "Id": "_41.0354995727539;28.9848289489746"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "DolmabahçeSarayı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 39,
+      "WalkMinutes": 23,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:39",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 12,
+          "WalkDistanceMeters": 987,
+          "DistanceMeters": 987,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.0369987487793,
+              "Lng": 29.000999450683594
+            },
+            "Time": "14:39",
+            "Id": "_41.0369987487793;29.0009994506836"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "ArkeolojiMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 8,
+      "WalkMinutes": 8,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:08",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 656,
+          "DistanceMeters": 656,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": { "Lat": 41.01169967651367, "Lng": 28.9813232421875 },
+            "Time": "14:08",
+            "Id": "_41.0116996765137;28.9813232421875"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "GülhaneParkı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 20,
+      "WalkMinutes": 20,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:20",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 20,
+          "WalkDistanceMeters": 1692,
+          "DistanceMeters": 1692,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.012699127197266,
+              "Lng": 28.980499267578125
+            },
+            "Time": "14:20",
+            "Id": "_41.0126991271973;28.9804992675781"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SirkeciTrenGarı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 16,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:16",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 16,
+          "WalkDistanceMeters": 1313,
+          "DistanceMeters": 1313,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.014991760253906,
+              "Lng": 28.9764404296875
+            },
+            "Time": "14:16",
+            "Id": "_41.0149917602539;28.9764404296875"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "HaydarpaşaTrenGarı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 49,
+      "WalkMinutes": 34,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:49",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 15,
+          "WalkDistanceMeters": 1206,
+          "DistanceMeters": 1206,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:15",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 7066,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:21",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "EndPoint": {
+            "Name": "Ayrılık Çeşmesi",
+            "Coordinate": {
+              "Lat": 41.00022506713867,
+              "Lng": 29.030128479003906
+            },
+            "Time": "14:30",
+            "Id": "istm_Marmaray_AYRILIKÇEŞME"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Marmaray Marmaray",
+            "Color": "2653D9",
+            "Direction": "Towards Gebze",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_marmaray_metro_2653D9_Marmaray",
+            "ScheduleId": "istm_Marmaray",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 19,
+          "WalkDistanceMeters": 1422,
+          "DistanceMeters": 1422,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Ayrılık Çeşmesi",
+            "Coordinate": {
+              "Lat": 41.00022506713867,
+              "Lng": 29.030128479003906
+            },
+            "Time": "14:30",
+            "Id": "istm_Marmaray_AYRILIKÇEŞME"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": { "Lat": 40.9962272644043, "Lng": 29.01863670349121 },
+            "Time": "14:49",
+            "Id": "_40.9962272644043;29.0186367034912"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "KızKulesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 39,
+      "WalkMinutes": 20,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:39",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 15,
+          "WalkDistanceMeters": 1206,
+          "DistanceMeters": 1206,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:15",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3335,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:21",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "EndPoint": {
+            "Name": "Üsküdar",
+            "Coordinate": { "Lat": 41.025634765625, "Lng": 29.013174057006836 },
+            "Time": "14:25",
+            "Id": "istm_Marmaray_USKUDAR"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Marmaray Marmaray",
+            "Color": "2653D9",
+            "Direction": "Towards Gebze",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_marmaray_metro_2653D9_Marmaray",
+            "ScheduleId": "istm_Marmaray",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 125,
+          "DistanceMeters": 125,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Üsküdar",
+            "Coordinate": { "Lat": 41.025634765625, "Lng": 29.013174057006836 },
+            "Time": "14:25",
+            "Id": "istm_Marmaray_USKUDAR"
+          },
+          "EndPoint": {
+            "Name": "Üsküdar Marmaray",
+            "Coordinate": {
+              "Lat": 41.02592468261719,
+              "Lng": 29.01382064819336
+            },
+            "Time": "14:29",
+            "Id": "ist_222001"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3234,
+          "StopsCount": 7,
+          "StartPoint": {
+            "Name": "Üsküdar Marmaray",
+            "Coordinate": {
+              "Lat": 41.02592468261719,
+              "Lng": 29.01382064819336
+            },
+            "Time": "14:30",
+            "Id": "ist_222001"
+          },
+          "EndPoint": {
+            "Name": "Şehit Erol Olçok",
+            "Coordinate": {
+              "Lat": 41.02153015136719,
+              "Lng": 29.04121971130371
+            },
+            "Time": "14:38",
+            "Id": "ist_222072"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "139S Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Sofular Köyü",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_139S",
+            "ScheduleId": "ist_139S",
+            "TrackId": "139S-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 60,
+          "DistanceMeters": 60,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Şehit Erol Olçok",
+            "Coordinate": {
+              "Lat": 41.02153015136719,
+              "Lng": 29.04121971130371
+            },
+            "Time": "14:38",
+            "Id": "ist_222072"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.0211296081543,
+              "Lng": 29.041101455688477
+            },
+            "Time": "14:39",
+            "Id": "_41.0211296081543;29.0411014556885"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SüleymaniyeCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 22,
+      "WalkMinutes": 12,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:22",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2052,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Laleli - Üniversite",
+            "Coordinate": {
+              "Lat": 41.00961685180664,
+              "Lng": 28.95973014831543
+            },
+            "Time": "14:21",
+            "Id": "istm_T1_LALELİ ÜNİVERSİTE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 122,
+          "DistanceMeters": 122,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Laleli - Üniversite",
+            "Coordinate": {
+              "Lat": 41.00961685180664,
+              "Lng": 28.95973014831543
+            },
+            "Time": "14:21",
+            "Id": "istm_T1_LALELİ ÜNİVERSİTE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.009666442871094,
+              "Lng": 28.958330154418945
+            },
+            "Time": "14:22",
+            "Id": "_41.0096664428711;28.9583301544189"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SaltGalata",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 24,
+      "WalkMinutes": 15,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:24",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 309,
+          "DistanceMeters": 309,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02387237548828,
+              "Lng": 28.973474502563477
+            },
+            "Time": "14:24",
+            "Id": "_41.0238723754883;28.9734745025635"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "YıldızSarayı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 45,
+      "WalkMinutes": 19,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:45",
+      "Price": 5.85,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3260,
+          "StopsCount": 5,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 0,
+          "WalkDistanceMeters": 36,
+          "DistanceMeters": 36,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:24",
+            "Id": "ist_120811"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2054,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:27",
+            "Id": "ist_120811"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28T Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Beşiktaş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28T",
+            "ScheduleId": "ist_28T",
+            "TrackId": "28T-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 0,
+          "WalkDistanceMeters": 22,
+          "DistanceMeters": 22,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.041500091552734,
+              "Lng": 29.00740623474121
+            },
+            "Time": "14:32",
+            "Id": "ist_301281"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1336,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.041500091552734,
+              "Lng": 29.00740623474121
+            },
+            "Time": "14:35",
+            "Id": "ist_301281"
+          },
+          "EndPoint": {
+            "Name": "Yıldız Teknik Ü",
+            "Coordinate": {
+              "Lat": 41.051509857177734,
+              "Lng": 29.008996963500977
+            },
+            "Time": "14:37",
+            "Id": "ist_113403"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "U2 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Beşiktaş İskele",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_U2",
+            "ScheduleId": "ist_U2",
+            "TrackId": "U2-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 671,
+          "DistanceMeters": 671,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Yıldız Teknik Ü",
+            "Coordinate": {
+              "Lat": 41.051509857177734,
+              "Lng": 29.008996963500977
+            },
+            "Time": "14:37",
+            "Id": "ist_113403"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.05070114135742,
+              "Lng": 29.011699676513672
+            },
+            "Time": "14:45",
+            "Id": "_41.0507011413574;29.0116996765137"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "ÇırağanSarayı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 44,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:05",
+      "ArrivalTime": "14:49",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:05",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:16",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:18",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:32",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 218,
+          "DistanceMeters": 218,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:32",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:35",
+            "Id": "ist_302381"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2142,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:42",
+            "Id": "ist_302381"
+          },
+          "EndPoint": {
+            "Name": "Çırağan",
+            "Coordinate": { "Lat": 41.0434684753418, "Lng": 29.01353645324707 },
+            "Time": "14:47",
+            "Id": "ist_112031"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "22 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards İstinye Dereiçi",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_22",
+            "ScheduleId": "ist_22",
+            "TrackId": "22-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 213,
+          "DistanceMeters": 213,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Çırağan",
+            "Coordinate": { "Lat": 41.0434684753418, "Lng": 29.01353645324707 },
+            "Time": "14:47",
+            "Id": "ist_112031"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.04349899291992,
+              "Lng": 29.015399932861328
+            },
+            "Time": "14:49",
+            "Id": "_41.0434989929199;29.0153999328613"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "RumeliHisarı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 67,
+      "WalkMinutes": 19,
+      "DepartureTime": "14:05",
+      "ArrivalTime": "15:12",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:05",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:16",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:18",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:32",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 218,
+          "DistanceMeters": 218,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:32",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:35",
+            "Id": "ist_302381"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 25,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 8585,
+          "StopsCount": 16,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:42",
+            "Id": "ist_302381"
+          },
+          "EndPoint": {
+            "Name": "Aşiyan",
+            "Coordinate": {
+              "Lat": 41.08145523071289,
+              "Lng": 29.05508041381836
+            },
+            "Time": "15:07",
+            "Id": "ist_112172"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "22 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards İstinye Dereiçi",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_22",
+            "ScheduleId": "ist_22",
+            "TrackId": "22-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 409,
+          "DistanceMeters": 409,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Aşiyan",
+            "Coordinate": {
+              "Lat": 41.08145523071289,
+              "Lng": 29.05508041381836
+            },
+            "Time": "15:07",
+            "Id": "ist_112172"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.08440017700195,
+              "Lng": 29.056499481201172
+            },
+            "Time": "15:12",
+            "Id": "_41.084400177002;29.0564994812012"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "PeraMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 33,
+      "WalkMinutes": 22,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:33",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2287,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 903,
+          "DistanceMeters": 903,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.03190231323242,
+              "Lng": 28.975196838378906
+            },
+            "Time": "14:33",
+            "Id": "_41.0319023132324;28.9751968383789"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "İstanbulModern",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 31,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:31",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 156,
+          "DistanceMeters": 156,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02298355102539,
+              "Lng": 28.974002838134766
+            },
+            "Time": "14:23",
+            "Id": "istm_F_Karaköy"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 602,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02298355102539,
+              "Lng": 28.974002838134766
+            },
+            "Time": "14:25",
+            "Id": "istm_F_Karaköy"
+          },
+          "EndPoint": {
+            "Name": "Beyoğlu",
+            "Coordinate": {
+              "Lat": 41.02839279174805,
+              "Lng": 28.974040985107422
+            },
+            "Time": "14:27",
+            "Id": "istm_F_Beyoğlu"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "F2 Funicular",
+            "Color": "717171",
+            "Direction": "Towards Beyoğlu",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_funicular_tram_717171_F2",
+            "ScheduleId": "istm_F2_tunel",
+            "TrackId": "b-a"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 256,
+          "DistanceMeters": 256,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beyoğlu",
+            "Coordinate": {
+              "Lat": 41.02839279174805,
+              "Lng": 28.974040985107422
+            },
+            "Time": "14:27",
+            "Id": "istm_F_Beyoğlu"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02994918823242,
+              "Lng": 28.97330093383789
+            },
+            "Time": "14:31",
+            "Id": "_41.0299491882324;28.9733009338379"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "DenizMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 34,
+      "WalkMinutes": 13,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:34",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3260,
+          "StopsCount": 5,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 0,
+          "WalkDistanceMeters": 36,
+          "DistanceMeters": 36,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:24",
+            "Id": "ist_120811"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2054,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:27",
+            "Id": "ist_120811"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28T Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Beşiktaş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28T",
+            "ScheduleId": "ist_28T",
+            "TrackId": "28T-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 199,
+          "DistanceMeters": 199,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.04105758666992,
+              "Lng": 29.005691528320312
+            },
+            "Time": "14:34",
+            "Id": "_41.0410575866699;29.0056915283203"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "FenerRumOrtodoksPatrikhanesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 35,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:35",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 445,
+          "DistanceMeters": 445,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01892852783203,
+              "Lng": 28.96955108642578
+            },
+            "Time": "14:23",
+            "Id": "ist_315031"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 6,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2237,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01892852783203,
+              "Lng": 28.96955108642578
+            },
+            "Time": "14:27",
+            "Id": "ist_315031"
+          },
+          "EndPoint": {
+            "Name": "Fener",
+            "Coordinate": {
+              "Lat": 41.03041076660156,
+              "Lng": 28.951507568359375
+            },
+            "Time": "14:33",
+            "Id": "ist_107262"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "99A Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Gaziosmanpaşa",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_99A",
+            "ScheduleId": "ist_99A",
+            "TrackId": "99A-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 162,
+          "DistanceMeters": 162,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fener",
+            "Coordinate": {
+              "Lat": 41.03041076660156,
+              "Lng": 28.951507568359375
+            },
+            "Time": "14:33",
+            "Id": "ist_107262"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02925491333008,
+              "Lng": 28.951635360717773
+            },
+            "Time": "14:35",
+            "Id": "_41.0292549133301;28.9516353607178"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "İstanbulAdaları",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 149,
+      "WalkMinutes": 34,
+      "DepartureTime": "15:13",
+      "ArrivalTime": "17:42",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "15:13",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "15:24",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "15:26",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "15:31",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Eminönü",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "d-c"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 90,
+          "DistanceMeters": 90,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "15:31",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü (Ş.Hatları; Kadıköy)",
+            "Coordinate": {
+              "Lat": 41.018123626708984,
+              "Lng": 28.97290802001953
+            },
+            "Time": "15:32",
+            "Id": "istf_Eminönü Sehir Kadikoy"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 25,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 5679,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Eminönü (Ş.Hatları; Kadıköy)",
+            "Coordinate": {
+              "Lat": 41.018123626708984,
+              "Lng": 28.97290802001953
+            },
+            "Time": "15:35",
+            "Id": "istf_Eminönü Sehir Kadikoy"
+          },
+          "EndPoint": {
+            "Name": "Kadıköy (Ş.Hatları; Karaköy & Eminönü)",
+            "Coordinate": {
+              "Lat": 40.99281692504883,
+              "Lng": 29.022979736328125
+            },
+            "Time": "16:00",
+            "Id": "istf_Kadıköy Sehir"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Kadıköy - Eminönü Şehir Hatları",
+            "Color": "00137F",
+            "Direction": "Towards Kadıköy",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istf_sehir_ferry_00137F_Kad%c4%b1k%c3%b6y%20-%20Emin%c3%b6n%c3%bc",
+            "ScheduleId": "istf_Kadıköy-Eminönü",
+            "TrackId": "A1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 60,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 18073,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Kadıköy (Ş.Hatları; Karaköy & Eminönü)",
+            "Coordinate": {
+              "Lat": 40.99281692504883,
+              "Lng": 29.022979736328125
+            },
+            "Time": "16:20",
+            "Id": "istf_Kadıköy Sehir"
+          },
+          "EndPoint": {
+            "Name": "Heybeliada (Ş.Hatları)",
+            "Coordinate": {
+              "Lat": 40.87678909301758,
+              "Lng": 29.101543426513672
+            },
+            "Time": "17:20",
+            "Id": "istf_Heybeliada Sehir"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Kabataş - Eminönü - Kadıköy - Adalar Şehir Hatları",
+            "Color": "00137F",
+            "Direction": "Towards Bostancı",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istf_sehir_ferry_00137F_Kabata%c5%9f%20-%20Emin%c3%b6n%c3%bc%20-%20Kad%c4%b1k%c3%b6y%20-%20Adalar",
+            "ScheduleId": "istf_Eminönü-Kadıkoy-Adalar",
+            "TrackId": "D0"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 22,
+          "WalkDistanceMeters": 1819,
+          "DistanceMeters": 1819,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Heybeliada (Ş.Hatları)",
+            "Coordinate": {
+              "Lat": 40.87678909301758,
+              "Lng": 29.101543426513672
+            },
+            "Time": "17:20",
+            "Id": "istf_Heybeliada Sehir"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 40.87253189086914,
+              "Lng": 29.08917999267578
+            },
+            "Time": "17:42",
+            "Id": "_40.8725318908691;29.0891799926758"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "KariyeMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 49,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:05",
+      "ArrivalTime": "14:54",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:05",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:16",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:18",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:25",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 144,
+          "DistanceMeters": 144,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:25",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02216720581055,
+              "Lng": 28.974403381347656
+            },
+            "Time": "14:27",
+            "Id": "ist_117423"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 12,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 5101,
+          "StopsCount": 10,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02216720581055,
+              "Lng": 28.974403381347656
+            },
+            "Time": "14:39",
+            "Id": "ist_117423"
+          },
+          "EndPoint": {
+            "Name": "Edirnekapı",
+            "Coordinate": {
+              "Lat": 41.030521392822266,
+              "Lng": 28.93685531616211
+            },
+            "Time": "14:51",
+            "Id": "ist_302081"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Topkapı / Edirnekapı",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28",
+            "ScheduleId": "ist_28",
+            "TrackId": "28-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 281,
+          "DistanceMeters": 281,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Edirnekapı",
+            "Coordinate": {
+              "Lat": 41.030521392822266,
+              "Lng": 28.93685531616211
+            },
+            "Time": "14:51",
+            "Id": "ist_302081"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.03120040893555,
+              "Lng": 28.939029693603516
+            },
+            "Time": "14:54",
+            "Id": "_41.0312004089355;28.9390296936035"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "GalataMevleviHanesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 29,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:29",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2287,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 589,
+          "DistanceMeters": 589,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02800750732422,
+              "Lng": 28.975088119506836
+            },
+            "Time": "14:29",
+            "Id": "_41.0280075073242;28.9750881195068"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "EyüpSultanCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 46,
+      "WalkMinutes": 21,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:46",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 435,
+          "DistanceMeters": 435,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01885223388672,
+              "Lng": 28.969608306884766
+            },
+            "Time": "14:23",
+            "Id": "ist_301031"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 13,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 5058,
+          "StopsCount": 10,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01885223388672,
+              "Lng": 28.969608306884766
+            },
+            "Time": "14:28",
+            "Id": "ist_301031"
+          },
+          "EndPoint": {
+            "Name": "Teleferik Pierreloti",
+            "Coordinate": {
+              "Lat": 41.050357818603516,
+              "Lng": 28.934627532958984
+            },
+            "Time": "14:41",
+            "Id": "ist_120802"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "99Y Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Yeşilpınar",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_99Y",
+            "ScheduleId": "ist_99Y",
+            "TrackId": "99Y-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 391,
+          "DistanceMeters": 391,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Teleferik Pierreloti",
+            "Coordinate": {
+              "Lat": 41.050357818603516,
+              "Lng": 28.934627532958984
+            },
+            "Time": "14:41",
+            "Id": "ist_120802"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.048030853271484,
+              "Lng": 28.93378257751465
+            },
+            "Time": "14:46",
+            "Id": "_41.0480308532715;28.9337825775146"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "FethiyeMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 39,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:39",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 355,
+          "DistanceMeters": 355,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01848220825195,
+              "Lng": 28.969934463500977
+            },
+            "Time": "14:22",
+            "Id": "ist_307031"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 4184,
+          "StopsCount": 9,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01848220825195,
+              "Lng": 28.969934463500977
+            },
+            "Time": "14:25",
+            "Id": "ist_307031"
+          },
+          "EndPoint": {
+            "Name": "Şehit ibrahim Yılmaz",
+            "Coordinate": {
+              "Lat": 41.027305603027344,
+              "Lng": 28.94655418395996
+            },
+            "Time": "14:36",
+            "Id": "ist_105471"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "90 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Draman",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_90",
+            "ScheduleId": "ist_90",
+            "TrackId": "90-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 223,
+          "DistanceMeters": 223,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Şehit ibrahim Yılmaz",
+            "Coordinate": {
+              "Lat": 41.027305603027344,
+              "Lng": 28.94655418395996
+            },
+            "Time": "14:36",
+            "Id": "ist_105471"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02904510498047,
+              "Lng": 28.94648551940918
+            },
+            "Time": "14:39",
+            "Id": "_41.0290451049805;28.9464855194092"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SadberkHanımMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 78,
+      "WalkMinutes": 21,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "15:18",
+      "Price": 5.85,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 15,
+          "WalkDistanceMeters": 1206,
+          "DistanceMeters": 1206,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:15",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2425,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:21",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "EndPoint": {
+            "Name": "Yenikapı",
+            "Coordinate": {
+              "Lat": 41.00520706176758,
+              "Lng": 28.95171546936035
+            },
+            "Time": "14:24",
+            "Id": "istm_Marmaray_YENIKAPI"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Marmaray Marmaray",
+            "Color": "2653D9",
+            "Direction": "Towards Halkalı",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_marmaray_metro_2653D9_Marmaray",
+            "ScheduleId": "istm_Marmaray",
+            "TrackId": "b-a"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 46,
+          "DistanceMeters": 46,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Yenikapı",
+            "Coordinate": {
+              "Lat": 41.00520706176758,
+              "Lng": 28.95171546936035
+            },
+            "Time": "14:24",
+            "Id": "istm_Marmaray_YENIKAPI"
+          },
+          "EndPoint": {
+            "Name": "Yenikapı",
+            "Coordinate": {
+              "Lat": 41.005584716796875,
+              "Lng": 28.951457977294922
+            },
+            "Time": "14:25",
+            "Id": "istm_M2_YENİKAPI"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 28,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 19123,
+          "StopsCount": 14,
+          "StartPoint": {
+            "Name": "Yenikapı",
+            "Coordinate": {
+              "Lat": 41.005584716796875,
+              "Lng": 28.951457977294922
+            },
+            "Time": "14:29",
+            "Id": "istm_M2_YENİKAPI"
+          },
+          "EndPoint": {
+            "Name": "Hacıosman",
+            "Coordinate": {
+              "Lat": 41.139854431152344,
+              "Lng": 29.03059196472168
+            },
+            "Time": "14:57",
+            "Id": "istm_M2_HACIOSMAN"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "M2 Metro",
+            "Color": "0F903D",
+            "Direction": "Towards Hacıosman",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_metro_metro_0F903D_M2",
+            "ScheduleId": "istm_M2",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 53,
+          "DistanceMeters": 53,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Hacıosman",
+            "Coordinate": {
+              "Lat": 41.139854431152344,
+              "Lng": 29.03059196472168
+            },
+            "Time": "14:57",
+            "Id": "istm_M2_HACIOSMAN"
+          },
+          "EndPoint": {
+            "Name": "Hacıosman Metro",
+            "Coordinate": {
+              "Lat": 41.13950729370117,
+              "Lng": 29.030658721923828
+            },
+            "Time": "15:00",
+            "Id": "ist_301351"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 4476,
+          "StopsCount": 8,
+          "StartPoint": {
+            "Name": "Hacıosman Metro",
+            "Coordinate": {
+              "Lat": 41.13950729370117,
+              "Lng": 29.030658721923828
+            },
+            "Time": "15:05",
+            "Id": "ist_301351"
+          },
+          "EndPoint": {
+            "Name": "Büyükdere Mah.",
+            "Coordinate": {
+              "Lat": 41.162437438964844,
+              "Lng": 29.047950744628906
+            },
+            "Time": "15:16",
+            "Id": "ist_112452"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "151 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Kilyos / Demirciköy",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_151",
+            "ScheduleId": "ist_151",
+            "TrackId": "151-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 169,
+          "DistanceMeters": 169,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Büyükdere Mah.",
+            "Coordinate": {
+              "Lat": 41.162437438964844,
+              "Lng": 29.047950744628906
+            },
+            "Time": "15:16",
+            "Id": "ist_112452"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.16299819946289,
+              "Lng": 29.048198699951172
+            },
+            "Time": "15:18",
+            "Id": "_41.1629981994629;29.0481986999512"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SabancıMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 79,
+      "WalkMinutes": 17,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "15:19",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 14,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3690,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 218,
+          "DistanceMeters": 218,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03443145751953,
+              "Lng": 28.992643356323242
+            },
+            "Time": "14:27",
+            "Id": "istm_T1_KABATAŞ"
+          },
+          "EndPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:30",
+            "Id": "ist_302381"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 34,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 11523,
+          "StopsCount": 21,
+          "StartPoint": {
+            "Name": "Kabataş",
+            "Coordinate": {
+              "Lat": 41.03432846069336,
+              "Lng": 28.99295425415039
+            },
+            "Time": "14:42",
+            "Id": "ist_302381"
+          },
+          "EndPoint": {
+            "Name": "Çınaraltı",
+            "Coordinate": {
+              "Lat": 41.105464935302734,
+              "Lng": 29.0571346282959
+            },
+            "Time": "15:16",
+            "Id": "ist_112232"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "22 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards İstinye Dereiçi",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_22",
+            "ScheduleId": "ist_22",
+            "TrackId": "22-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 228,
+          "DistanceMeters": 228,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Çınaraltı",
+            "Coordinate": {
+              "Lat": 41.105464935302734,
+              "Lng": 29.0571346282959
+            },
+            "Time": "15:16",
+            "Id": "ist_112232"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.106021881103516,
+              "Lng": 29.055519104003906
+            },
+            "Time": "15:19",
+            "Id": "_41.1060218811035;29.0555191040039"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "RahmiKoçMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 40,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:13",
+      "ArrivalTime": "14:53",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:13",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:26",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:31",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Eminönü",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "d-c"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 392,
+          "DistanceMeters": 392,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:31",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.018775939941406,
+              "Lng": 28.96965980529785
+            },
+            "Time": "14:36",
+            "Id": "ist_302031"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 4762,
+          "StopsCount": 10,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.018775939941406,
+              "Lng": 28.96965980529785
+            },
+            "Time": "14:40",
+            "Id": "ist_302031"
+          },
+          "EndPoint": {
+            "Name": "Kırmızı Minare",
+            "Coordinate": {
+              "Lat": 41.042198181152344,
+              "Lng": 28.949941635131836
+            },
+            "Time": "14:51",
+            "Id": "ist_117541"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "47E Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Binevler",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_47E",
+            "ScheduleId": "ist_47E",
+            "TrackId": "47E-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 163,
+          "DistanceMeters": 163,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kırmızı Minare",
+            "Coordinate": {
+              "Lat": 41.042198181152344,
+              "Lng": 28.949941635131836
+            },
+            "Time": "14:51",
+            "Id": "ist_117541"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.04197311401367,
+              "Lng": 28.948562622070312
+            },
+            "Time": "14:53",
+            "Id": "_41.0419731140137;28.9485626220703"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "RezanHasMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 32,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:32",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 908,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 445,
+          "DistanceMeters": 445,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01752853393555,
+              "Lng": 28.97319793701172
+            },
+            "Time": "14:18",
+            "Id": "istm_1430438126"
+          },
+          "EndPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01892852783203,
+              "Lng": 28.96955108642578
+            },
+            "Time": "14:23",
+            "Id": "ist_315031"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 3,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1172,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Eminönü",
+            "Coordinate": {
+              "Lat": 41.01892852783203,
+              "Lng": 28.96955108642578
+            },
+            "Time": "14:27",
+            "Id": "ist_315031"
+          },
+          "EndPoint": {
+            "Name": "Unkapanı - Kadir Has Ü",
+            "Coordinate": {
+              "Lat": 41.024314880371094,
+              "Lng": 28.960100173950195
+            },
+            "Time": "14:30",
+            "Id": "ist_108272"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "99A Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Gaziosmanpaşa",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_99A",
+            "ScheduleId": "ist_99A",
+            "TrackId": "99A-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 188,
+          "DistanceMeters": 188,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Unkapanı - Kadir Has Ü",
+            "Coordinate": {
+              "Lat": 41.024314880371094,
+              "Lng": 28.960100173950195
+            },
+            "Time": "14:30",
+            "Id": "ist_108272"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.025238037109375,
+              "Lng": 28.95874786376953
+            },
+            "Time": "14:32",
+            "Id": "_41.0252380371094;28.9587478637695"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "NuruosmaniyeCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 19,
+      "WalkMinutes": 19,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:19",
+      "Price": 0,
+      "Currency": null,
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 19,
+          "WalkDistanceMeters": 1566,
+          "DistanceMeters": 1566,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.010398864746094,
+              "Lng": 28.970399856567383
+            },
+            "Time": "14:19",
+            "Id": "_41.0103988647461;28.9703998565674"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "KadiköyBoğaHeykeli",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 39,
+      "WalkMinutes": 17,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:39",
+      "Price": 5.2,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 15,
+          "WalkDistanceMeters": 1206,
+          "DistanceMeters": 1206,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:15",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 13,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 8118,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:21",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "EndPoint": {
+            "Name": "Söğütlüçeşme",
+            "Coordinate": {
+              "Lat": 40.99247741699219,
+              "Lng": 29.035690307617188
+            },
+            "Time": "14:34",
+            "Id": "istm_392657266"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Marmaray Marmaray",
+            "Color": "2653D9",
+            "Direction": "Towards Gebze",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_marmaray_metro_2653D9_Marmaray",
+            "ScheduleId": "istm_Marmaray",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 111,
+          "DistanceMeters": 111,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Söğütlüçeşme",
+            "Coordinate": {
+              "Lat": 40.99247741699219,
+              "Lng": 29.035690307617188
+            },
+            "Time": "14:34",
+            "Id": "istm_392657266"
+          },
+          "EndPoint": {
+            "Name": "S.Çeşme Metrobüs",
+            "Coordinate": {
+              "Lat": 40.991764068603516,
+              "Lng": 29.035837173461914
+            },
+            "Time": "14:35",
+            "Id": "ist_228681"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 632,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "S.Çeşme Metrobüs",
+            "Coordinate": {
+              "Lat": 40.991764068603516,
+              "Lng": 29.035837173461914
+            },
+            "Time": "14:36",
+            "Id": "ist_228681"
+          },
+          "EndPoint": {
+            "Name": "Altıyol",
+            "Coordinate": {
+              "Lat": 40.9907341003418,
+              "Lng": 29.029361724853516
+            },
+            "Time": "14:38",
+            "Id": "ist_224692"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "16D Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Kadıköy",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_16D",
+            "ScheduleId": "ist_16D",
+            "TrackId": "16D-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 44,
+          "DistanceMeters": 44,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Altıyol",
+            "Coordinate": {
+              "Lat": 40.9907341003418,
+              "Lng": 29.029361724853516
+            },
+            "Time": "14:38",
+            "Id": "ist_224692"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 40.99046325683594,
+              "Lng": 29.029157638549805
+            },
+            "Time": "14:39",
+            "Id": "_40.9904632568359;29.0291576385498"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "SarayKoleksiyonlarıMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 36,
+      "WalkMinutes": 15,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:36",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3260,
+          "StopsCount": 5,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 0,
+          "WalkDistanceMeters": 36,
+          "DistanceMeters": 36,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:24",
+            "Id": "ist_120811"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2054,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:27",
+            "Id": "ist_120811"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28T Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Beşiktaş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28T",
+            "ScheduleId": "ist_28T",
+            "TrackId": "28T-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 331,
+          "DistanceMeters": 331,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.041263580322266,
+              "Lng": 29.004077911376953
+            },
+            "Time": "14:36",
+            "Id": "_41.0412635803223;29.004077911377"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "Çemberlitaş",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 18,
+      "WalkMinutes": 12,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:18",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1080,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Çemberlitaş",
+            "Coordinate": {
+              "Lat": 41.00847244262695,
+              "Lng": 28.971162796020508
+            },
+            "Time": "14:17",
+            "Id": "istm_T1_ÇEMBERLİTAŞ"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 46,
+          "DistanceMeters": 46,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Çemberlitaş",
+            "Coordinate": {
+              "Lat": 41.00847244262695,
+              "Lng": 28.971162796020508
+            },
+            "Time": "14:17",
+            "Id": "istm_T1_ÇEMBERLİTAŞ"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.00849914550781,
+              "Lng": 28.971599578857422
+            },
+            "Time": "14:18",
+            "Id": "_41.0084991455078;28.9715995788574"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "FatihCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 47,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:05",
+      "ArrivalTime": "14:52",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:05",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:16",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:18",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:25",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 144,
+          "DistanceMeters": 144,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:25",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02216720581055,
+              "Lng": 28.974403381347656
+            },
+            "Time": "14:27",
+            "Id": "ist_117423"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3533,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02216720581055,
+              "Lng": 28.974403381347656
+            },
+            "Time": "14:39",
+            "Id": "ist_117423"
+          },
+          "EndPoint": {
+            "Name": "Fatih",
+            "Coordinate": {
+              "Lat": 41.01949691772461,
+              "Lng": 28.94784927368164
+            },
+            "Time": "14:47",
+            "Id": "ist_105782"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Topkapı / Edirnekapı",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28",
+            "ScheduleId": "ist_28",
+            "TrackId": "28-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 407,
+          "DistanceMeters": 407,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fatih",
+            "Coordinate": {
+              "Lat": 41.01949691772461,
+              "Lng": 28.94784927368164
+            },
+            "Time": "14:47",
+            "Id": "ist_105782"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01969909667969,
+              "Lng": 28.949800491333008
+            },
+            "Time": "14:52",
+            "Id": "_41.0196990966797;28.949800491333"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "VefaKiliseCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 32,
+      "WalkMinutes": 22,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:32",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2052,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Laleli - Üniversite",
+            "Coordinate": {
+              "Lat": 41.00961685180664,
+              "Lng": 28.95973014831543
+            },
+            "Time": "14:21",
+            "Id": "istm_T1_LALELİ ÜNİVERSİTE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Cevizlibağ",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "c-d"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 920,
+          "DistanceMeters": 920,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Laleli - Üniversite",
+            "Coordinate": {
+              "Lat": 41.00961685180664,
+              "Lng": 28.95973014831543
+            },
+            "Time": "14:21",
+            "Id": "istm_T1_LALELİ ÜNİVERSİTE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.016265869140625,
+              "Lng": 28.960329055786133
+            },
+            "Time": "14:32",
+            "Id": "_41.0162658691406;28.9603290557861"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "StAntoineKilisesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 31,
+      "WalkMinutes": 20,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:31",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2287,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 786,
+          "DistanceMeters": 786,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.03230667114258,
+              "Lng": 28.97713279724121
+            },
+            "Time": "14:31",
+            "Id": "_41.0323066711426;28.9771327972412"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "BüyükMecidiyeCamii",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 50,
+      "WalkMinutes": 17,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:50",
+      "Price": 5.85,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3260,
+          "StopsCount": 5,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 0,
+          "WalkDistanceMeters": 36,
+          "DistanceMeters": 36,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.03143310546875,
+              "Lng": 28.989439010620117
+            },
+            "Time": "14:24",
+            "Id": "istm_T1_FINDIKLI"
+          },
+          "EndPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:24",
+            "Id": "ist_120811"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2054,
+          "StopsCount": 2,
+          "StartPoint": {
+            "Name": "Fındıklı",
+            "Coordinate": {
+              "Lat": 41.0314826965332,
+              "Lng": 28.989803314208984
+            },
+            "Time": "14:27",
+            "Id": "ist_120811"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "28T Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Beşiktaş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_28T",
+            "ScheduleId": "ist_28T",
+            "TrackId": "28T-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 140,
+          "DistanceMeters": 140,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beşiktaş İskele",
+            "Coordinate": {
+              "Lat": 41.0416145324707,
+              "Lng": 29.007261276245117
+            },
+            "Time": "14:32",
+            "Id": "ist_303281"
+          },
+          "EndPoint": {
+            "Name": "Beşiktaş B.Üniversit",
+            "Coordinate": {
+              "Lat": 41.042179107666016,
+              "Lng": 29.007665634155273
+            },
+            "Time": "14:34",
+            "Id": "ist_114962"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1513,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Beşiktaş B.Üniversit",
+            "Coordinate": {
+              "Lat": 41.042179107666016,
+              "Lng": 29.007665634155273
+            },
+            "Time": "14:44",
+            "Id": "ist_114962"
+          },
+          "EndPoint": {
+            "Name": "Kabataş Erkek Lise",
+            "Coordinate": {
+              "Lat": 41.04770278930664,
+              "Lng": 29.023897171020508
+            },
+            "Time": "14:46",
+            "Id": "ist_112061"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "DT1 Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Taksim",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_DT1",
+            "ScheduleId": "ist_DT1",
+            "TrackId": "DT1-1"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 314,
+          "DistanceMeters": 314,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Kabataş Erkek Lise",
+            "Coordinate": {
+              "Lat": 41.04770278930664,
+              "Lng": 29.023897171020508
+            },
+            "Time": "14:46",
+            "Id": "ist_112061"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.04729461669922,
+              "Lng": 29.026826858520508
+            },
+            "Time": "14:50",
+            "Id": "_41.0472946166992;29.0268268585205"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "BeylerbeyiSarayı",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 47,
+      "WalkMinutes": 22,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:47",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 15,
+          "WalkDistanceMeters": 1206,
+          "DistanceMeters": 1206,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:15",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3335,
+          "StopsCount": 1,
+          "StartPoint": {
+            "Name": "Sirkeci",
+            "Coordinate": {
+              "Lat": 41.01359939575195,
+              "Lng": 28.97708511352539
+            },
+            "Time": "14:21",
+            "Id": "istm_Marmaray_SİRKECİ"
+          },
+          "EndPoint": {
+            "Name": "Üsküdar",
+            "Coordinate": { "Lat": 41.025634765625, "Lng": 29.013174057006836 },
+            "Time": "14:25",
+            "Id": "istm_Marmaray_USKUDAR"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "Marmaray Marmaray",
+            "Color": "2653D9",
+            "Direction": "Towards Gebze",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_marmaray_metro_2653D9_Marmaray",
+            "ScheduleId": "istm_Marmaray",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 363,
+          "DistanceMeters": 363,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Üsküdar",
+            "Coordinate": { "Lat": 41.025634765625, "Lng": 29.013174057006836 },
+            "Time": "14:25",
+            "Id": "istm_Marmaray_USKUDAR"
+          },
+          "EndPoint": {
+            "Name": "Üsküdar Camii Önü",
+            "Coordinate": {
+              "Lat": 41.027565002441406,
+              "Lng": 29.016149520874023
+            },
+            "Time": "14:30",
+            "Id": "ist_403091"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 3421,
+          "StopsCount": 6,
+          "StartPoint": {
+            "Name": "Üsküdar Camii Önü",
+            "Coordinate": {
+              "Lat": 41.027565002441406,
+              "Lng": 29.016149520874023
+            },
+            "Time": "14:37",
+            "Id": "ist_403091"
+          },
+          "EndPoint": {
+            "Name": "Beylerbeyi Sarayı",
+            "Coordinate": {
+              "Lat": 41.043113708496094,
+              "Lng": 29.042659759521484
+            },
+            "Time": "14:45",
+            "Id": "ist_219301"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "15T Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Tokatköy",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_15T",
+            "ScheduleId": "ist_15T",
+            "TrackId": "15T-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 2,
+          "WalkDistanceMeters": 167,
+          "DistanceMeters": 167,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Beylerbeyi Sarayı",
+            "Coordinate": {
+              "Lat": 41.043113708496094,
+              "Lng": 29.042659759521484
+            },
+            "Time": "14:45",
+            "Id": "ist_219301"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": { "Lat": 41.04280090332031, "Lng": 29.0408992767334 },
+            "Time": "14:47",
+            "Id": "_41.0428009033203;29.0408992767334"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "Miniatürk",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 63,
+      "WalkMinutes": 18,
+      "DepartureTime": "14:06",
+      "ArrivalTime": "15:09",
+      "Price": 4.45,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:06",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:17",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 20,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 5043,
+          "StopsCount": 10,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:19",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Pazartekke",
+            "Coordinate": {
+              "Lat": 41.0182991027832,
+              "Lng": 28.927146911621094
+            },
+            "Time": "14:39",
+            "Id": "istm_T1_PAZARTEKKE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Bağcılar",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "b-a"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 1,
+          "WalkDistanceMeters": 77,
+          "DistanceMeters": 77,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Pazartekke",
+            "Coordinate": {
+              "Lat": 41.0182991027832,
+              "Lng": 28.927146911621094
+            },
+            "Time": "14:39",
+            "Id": "istm_T1_PAZARTEKKE"
+          },
+          "EndPoint": {
+            "Name": "Millet Caddesi",
+            "Coordinate": {
+              "Lat": 41.01870346069336,
+              "Lng": 28.926654815673828
+            },
+            "Time": "14:40",
+            "Id": "ist_106062"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 17,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 6699,
+          "StopsCount": 11,
+          "StartPoint": {
+            "Name": "Millet Caddesi",
+            "Coordinate": {
+              "Lat": 41.01870346069336,
+              "Lng": 28.926654815673828
+            },
+            "Time": "14:46",
+            "Id": "ist_106062"
+          },
+          "EndPoint": {
+            "Name": "Miniatürk",
+            "Coordinate": {
+              "Lat": 41.05824279785156,
+              "Lng": 28.95081329345703
+            },
+            "Time": "15:03",
+            "Id": "ist_117622"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "41ST Bus",
+            "Color": "dc3131",
+            "Direction": "Towards Seyrantepe",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/ist_bus_bus_dc3131_41ST",
+            "ScheduleId": "ist_41ST",
+            "TrackId": "41ST-2"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 6,
+          "WalkDistanceMeters": 466,
+          "DistanceMeters": 466,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Miniatürk",
+            "Coordinate": {
+              "Lat": 41.05824279785156,
+              "Lng": 28.95081329345703
+            },
+            "Time": "15:03",
+            "Id": "ist_117622"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.05985641479492,
+              "Lng": 28.94869613647461
+            },
+            "Time": "15:09",
+            "Id": "_41.0598564147949;28.9486961364746"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "BesYuzYılVakfıTürkMusevileriMüzesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 28,
+      "WalkMinutes": 19,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:28",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 7,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 1579,
+          "StopsCount": 3,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 8,
+          "WalkDistanceMeters": 638,
+          "DistanceMeters": 638,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Karaköy",
+            "Coordinate": {
+              "Lat": 41.02220153808594,
+              "Lng": 28.97479820251465
+            },
+            "Time": "14:20",
+            "Id": "istm_465056696"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02678680419922,
+              "Lng": 28.972728729248047
+            },
+            "Time": "14:28",
+            "Id": "_41.0267868041992;28.972728729248"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "KırımKilisesi",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 27,
+      "WalkMinutes": 16,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:27",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2287,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 5,
+          "WalkDistanceMeters": 396,
+          "DistanceMeters": 396,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.027652740478516,
+              "Lng": 28.977121353149414
+            },
+            "Time": "14:27",
+            "Id": "_41.0276527404785;28.9771213531494"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  },
+  {
+    "from": "TopkapıSarayı",
+    "to": "AirbnbEv",
+    "routes": {
+      "PreferenceLabel": "RECOMMENDED",
+      "DurationMinutes": 26,
+      "WalkMinutes": 15,
+      "DepartureTime": "14:00",
+      "ArrivalTime": "14:26",
+      "Price": 2.6,
+      "Currency": "TRY",
+      "RouteSegments": [
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 11,
+          "WalkDistanceMeters": 905,
+          "DistanceMeters": 905,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.01300048828125,
+              "Lng": 28.983999252319336
+            },
+            "Time": "14:00",
+            "Id": "_41.0130004882813;28.9839992523193"
+          },
+          "EndPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:11",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 2,
+          "IconUrl": "",
+          "DurationMinutes": 9,
+          "WalkDistanceMeters": 0,
+          "DistanceMeters": 2287,
+          "StopsCount": 4,
+          "StartPoint": {
+            "Name": "Gülhane",
+            "Coordinate": {
+              "Lat": 41.01203155517578,
+              "Lng": 28.978378295898438
+            },
+            "Time": "14:13",
+            "Id": "istm_T1_GÜLHANE"
+          },
+          "EndPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "Shape": "",
+          "Transport": {
+            "Name": "T1 Tram",
+            "Color": "033B78",
+            "Direction": "Towards Kabataş",
+            "IconUrl": "https://cdn.trafi.com/icon.ashx?size=64&style=v2&src=transport/istm_tram_tram_033B78_T1",
+            "ScheduleId": "istm_T1",
+            "TrackId": "a-b"
+          },
+          "OtherTransports": []
+        },
+        {
+          "RouteSegmentType": 1,
+          "IconUrl": "",
+          "DurationMinutes": 4,
+          "WalkDistanceMeters": 296,
+          "DistanceMeters": 296,
+          "StopsCount": 0,
+          "StartPoint": {
+            "Name": "Tophane",
+            "Coordinate": {
+              "Lat": 41.026729583740234,
+              "Lng": 28.980199813842773
+            },
+            "Time": "14:22",
+            "Id": "istm_T1_TOPHANE"
+          },
+          "EndPoint": {
+            "Name": "",
+            "Coordinate": {
+              "Lat": 41.02779006958008,
+              "Lng": 28.977703094482422
+            },
+            "Time": "14:26",
+            "Id": "_41.0277900695801;28.9777030944824"
+          },
+          "Shape": "",
+          "Transport": null,
+          "OtherTransports": []
+        }
+      ]
+    }
+  }
+]
